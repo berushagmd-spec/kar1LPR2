@@ -40,8 +40,8 @@ import requests
 
 # ====================== НАСТРОЙКИ ======================
 
-BOT_TOKEN = os.getenv("AURELIA_BOT_TOKEN", "PASTE_TOKEN_HERE")
-CHANNEL_ID = os.getenv("AURELIA_CHANNEL_ID", "@your_channel")
+BOT_TOKEN = os.getenv("8990241307:AAGsWRxCQul8WqGnETqC6ZYjGb0llvkEbWU")
+CHANNEL_ID = os.getenv(-1004360097165)
 
 MIN_INTERVAL_SEC = 90        # минимальный интервал между сообщениями
 MAX_INTERVAL_SEC = 1200      # максимальный интервал между сообщениями
